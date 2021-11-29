@@ -1,1 +1,1 @@
-# theme-frontend-gxd-base
+# theme-frontend-healthbeauty
